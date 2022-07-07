@@ -11,8 +11,8 @@ section {
   padding-top: 5rem;
 }
 
-/* My Keyboard Section */
-.keyboard-box {
+/* My Skills Section */
+.skills-box {
   position: relative;
   background-color: #0c6efd;
   border-radius: 10px;
@@ -20,7 +20,7 @@ section {
   transform-style: preserve-3d;
 }
 
-.keyboard-box::before {
+.skills-box::before {
   content: "MY";
   position: absolute;
   color: #fff;
